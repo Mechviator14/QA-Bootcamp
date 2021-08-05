@@ -1,0 +1,20 @@
+var Elektronik = []
+Elektronik[0]= 'Televisi'
+Elektronik[1]= 'Rice Cooker'
+Elektronik[2]= 'Mixer'
+Elektronik[3]= 'DVD Player'
+Elektronik[4]= 'Kulkas'
+
+var harga = []
+harga[0]= 1000000 
+harga[1]= 400000
+harga[2]= 500000
+harga[3]= 800000 
+harga[4]= 1200000
+
+var diskon = []
+diskon [0] = 40%
+diskon [1] = 10%
+diskon [2] = 15%
+diskon [3] = 30%
+diskon [4] = 50%
