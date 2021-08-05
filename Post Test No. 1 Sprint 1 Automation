@@ -1,0 +1,11 @@
+var Koleksibuku = [];
+ Koleksibuku =  ['Buku 1','Buku 2','buku 3','buku 4','buku 5']
+ document.write(Koleksibuku);
+var kegiatan = prompt('Halo,apa yang ingin anda lakukan?')
+If (kegiatan == 'tambah buku'){
+    var bukubaru = prompt('Masukkan judul buku baru')
+    koleksibuku.push(bukubaru)
+    document.write(Koleksibuku)
+} else if (kegiatan == 'meminjamkan buku')
+    var pinjambuku = prompt('Masukkan judul buku yang akan dipinjam')
+    koleksibuku.splice
